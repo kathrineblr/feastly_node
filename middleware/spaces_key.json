@@ -1,0 +1,10 @@
+{
+	"bucket":"nativeerpspaces",
+	"accesskey":"DO00ZKCPBJLE9FFXH9T9",
+       	"secretkey":"0L30wichHLoM9Pz8WNy2vugFzoCafJBzWjjjawXBm2w",
+	"endpoint":"blr1.digitaloceanspaces.com",
+    "url":"https://nativeerpspaces.blr1.digitaloceanspaces.com",
+        "folder": "DCC/uploads",
+	"vendor_certificate":"vendor_certificate"
+
+}
